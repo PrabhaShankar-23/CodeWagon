@@ -1,0 +1,1 @@
+exploring map functions in array.
